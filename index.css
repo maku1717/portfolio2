@@ -3,11 +3,15 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+body{
+	margin: 0;
+}
 .home-landing {
 	padding:8px;
 }
 nav {
-
+	padding-top: 20px;
+	height: 500px;	
 	text-align: center;
 	background-color: skyblue;
 }
@@ -48,11 +52,15 @@ form{
 }
 .feature-movie{
 	text-align: center;
-	padding-right: 400px;
+	padding-right: 430px;
+    margin-bottom: 40px;
+
+
 
 }
 #movies{
-    margin-left: 500px;
+    margin-left: 430px;
+    padding-bottom: 20px;
 }
 #contact-us{
 	text-align: center;
